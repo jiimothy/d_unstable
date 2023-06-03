@@ -4,6 +4,10 @@
   # Default build command.
   command = "hugo --debug --minify --baseURL $DEPLOY_PRIME_URL"
 [build.environment]
+  NODE_ENV = "production"
+  # NODE_VERSION =
+  # NPM_VERSION =
+  # NPM_FLAGS =
 
 # Production context: all deploys from the Production branch
 # set in your site’s Branches settings in the UI will inherit

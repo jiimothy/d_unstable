@@ -1,0 +1,27 @@
+{
+  "name": "d_unstable",
+  "version": "1.0.0",
+  "description": "whats this about then - can I get to this place for reals? This place of github commands, pushing code and whatnot?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiimothy/d_unstable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiimothy/d_unstable/issues"
+  },
+  "homepage": "https://github.com/jiimothy/d_unstable#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "postcss-cli": "^10.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0"
+  }
+}
